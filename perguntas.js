@@ -7,17 +7,17 @@ criaCartao(
 criaCartao(
     'Programaçaõ',
     'O que é Java Script?',
-    'É uma linguagem de programação que permite a você implementar itens complexos em páginas web'
+    'É uma linguagem de programação que permite colocar itens em páginas web'
 )
 
 criaCartao(
     'Programação',
-    'O que é style.css?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'O que o css faz?',
+    'Permite a personalização da aparência dos elementos HTML'
 )
 
 criaCartao(
     'Programação',
     'O que é o body?',
-    'Oi em ingles é HI (RAI)'
+    'É o documento em si, a informação legível para o leitor do documento'
 )
