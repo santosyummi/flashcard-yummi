@@ -1,23 +1,22 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
-)
+    'O que é html?',
+    'É uma Linguagem de Marcação de HiperTexto',
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Programaçaõ',
+    'O que é Java Script?',
+    'É uma linguagem de programação que permite a você implementar itens complexos em páginas web ',
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'O que é style.css?',
+    'Uma função é um bloco de código que executa alguma tarefa',
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Programação',
+    'O que é o body?',
+    'Oi em ingles é HI (RAI)',
 )
